@@ -2,6 +2,7 @@
 
 Analyst for an independent gaming company. Assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Generate a report that breaks down the game's purchasing data into meaningful insights.
 
+## Age Demographics
 
 ![Age Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/age_demographics.png)
 
