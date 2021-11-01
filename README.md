@@ -6,6 +6,8 @@ Analyst for an independent gaming company. Assigned the task of analyzing the da
 
 ![Player Count](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/player_count.png)
 
+The total amount of players we have currently in the game is 576
+
 ![Gender Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/gender_demographics.png)
 
 ![Purchasing Analysis Gender](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/purchasing_analysis_gender.png)
