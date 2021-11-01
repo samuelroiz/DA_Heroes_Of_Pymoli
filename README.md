@@ -4,6 +4,8 @@ Analyst for an independent gaming company. Assigned the task of analyzing the da
 
 ## Gender Demographics
 
+![Player Count](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/player_count.png)
+
 ![Gender Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/gender_demographics.png)
 
 ![Purchasing Analysis Gender](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/purchasing_analysis_gender.png)
@@ -16,7 +18,7 @@ Analyst for an independent gaming company. Assigned the task of analyzing the da
 
 ![Most Profitable Item](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/most_pro_item.png)
 
-![Player Count](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/player_count.png)
+
 
 ![Purchasing Analysis](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/purchasing_analysis.png)
 
