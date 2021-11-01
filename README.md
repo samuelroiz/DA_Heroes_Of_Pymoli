@@ -6,11 +6,11 @@ Analyst for an independent gaming company. Assigned the task of analyzing the da
 
 ![Player Count](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/player_count.png)
 
-The total amount of players the server have currently in the game is 576
+The total amount of players the server have currently in the game is 576.
 
 ![Gender Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/gender_demographics.png)
 
-This is a table of the gender population. The server currently have more men than females and others.  
+This is a table of the gender population. The server currently have more men than females and others. Men have a percentage of 84%. 
 
 ![Purchasing Analysis Gender](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/purchasing_analysis_gender.png)
 
