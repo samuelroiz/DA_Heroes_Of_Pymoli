@@ -9,7 +9,7 @@ Analyst for an independent gaming company. Assigned the task of analyzing the da
 The total amount of players the server has currently in the game is 576.
 
 
-![Gender Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/gender_demographics.png)
+![Gender Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/gender_demographics_updated.png)
 
 This is a table of the gender population. The server currently has more men than females and others. Males have a percentage of 84% and females have 14%. The rest is others.  Data shows that certain games have a gendered appeal. This sort of game shows that it has a male appeal. 
 
@@ -21,7 +21,7 @@ Since its game is majored by men, it will have the most purchases. However, fema
 
 A table based on age. Age from twnety to twenty-four has highest percetnage of players. 
 
-![Insert missing here](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/age_demographics.png)
+![Ages Purchases Table](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/ages_purchases_table.png)
 
 ![Most Popular Item](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/most_pop_item.png)
 
