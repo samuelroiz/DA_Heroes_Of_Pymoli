@@ -6,7 +6,7 @@ Analyst for an independent gaming company. Assigned the task of analyzing the da
 
 ![Player Count](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/player_count.png)
 
-The total amount of players the server has currently in the game is 576.
+The total amount of players the server has currently in the game is 576. Not enough data to determine if players are joining or leaving the server. 
 
 
 ![Gender Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/gender_demographics_updated.png)
@@ -19,7 +19,7 @@ Since its game is majored by men, it will have the most purchases. However, fema
 
 ![Age Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/age_demographics.png)
 
-A table based on age. Age from twnety to twenty-four has highest percetnage of players. 
+A table based on age. Age from twenty to twenty-four has the highest percentage of players. The second-highest percentage of age is twenty-five to twenty-nine. The following table shows that aged twenty to twenty-nine take up to 57 percent of the purchases in the game market. The least amount of purchases is age 40 and above. The reason aged forty and above do not purchase or be involved in the game is due to lack of technology exposure. Clients aged 30 or below have a better understanding of how technology and video games work since they grew up with it.  
 
 ![Ages Purchases Table](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/ages_purchases_table.png)
 
