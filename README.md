@@ -17,11 +17,15 @@ This is a table of the gender population. The server currently has more men than
 
 Since its game is majored by men, it will have the most purchases. However, females and others intend to buy more expensive items and spend more money. If the game wants to increase its profit, it should find a solution to increase the player count of females and others.  
 
+## Age Demographics
+
 ![Age Demographics](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/age_demographics.png)
 
 A table based on age. Age from twenty to twenty-four has the highest percentage of players. The second-highest percentage of age is twenty-five to twenty-nine. The following table shows that aged twenty to twenty-nine take up to 57 percent of the purchases in the game market. The least amount of purchases is age 40 and above. The reason aged forty and above do not purchase or be involved in the game is due to lack of technology exposure. Clients aged 30 or below have a better understanding of how technology and video games work since they grew up with it.  
 
 ![Ages Purchases Table](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/ages_purchases_table.png)
+
+## Popular/Hottest Items in Game
 
 ![Most Popular Item](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/most_pop_item.png)
 
@@ -31,6 +35,7 @@ The two table shows what item is purchased amount of items and the information o
 
 ![Purchasing Analysis](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/purchasing_analysis.png)
 
+## Highest Spenders Leaderboard
 
 ![Top 5 Spenders](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/top_five_spenders.png)
 
