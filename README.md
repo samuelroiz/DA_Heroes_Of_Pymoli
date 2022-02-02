@@ -39,3 +39,4 @@ The two table shows what item is purchased amount of items and the information o
 
 ![Top 5 Spenders](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/top_five_spenders.png)
 
+
