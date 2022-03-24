@@ -39,4 +39,27 @@ The two table shows what item is purchased amount of items and the information o
 
 ![Top 5 Spenders](https://github.com/samuelroiz/DA_Heroes_Of_Pymoli/blob/main/Images/top_five_spenders.png)
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Samuel Roiz** - *Data cleaned, Analyzed Data* - [GitHub](https://github.com/samuelroiz)
+
+See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details
+
+## Acknowledgments
+
+* Heroes of Pymoli
+* USC Data Visualization
+* CSUN Mathematics
 
